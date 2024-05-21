@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadiqasg" alt="sadiqasg" /></a> </p>
 
-- 🔭 I’m currently working, with [PPDC](https://www.ppdc.org/) to maintain and upgrade Open Contracting Portals that links procurement data to the services rendered by Federal Institutions in Nigeria via [Budeshi, Budeshi Hub, and Nigerian State OCDS Portals](http://budeshi.ng/)
+- 🔭 I’m currently working, with [PPDC](https://www.ppdc.org/), to maintain and upgrade Open Contracting Portals that links procurement data to the services rendered by Federal Institutions in Nigeria via [Budeshi, Budeshi Hub, and Nigerian State OCDS Portals](http://budeshi.ng/)
 
 - 🌱 I’m currently learning **Python (Django) and Cyber Security**
 
