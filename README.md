@@ -6,7 +6,7 @@
 
 <p>Currently, at the Public and Private Development Center [PPDC](https://www.ppdc.org/), I play a pivotal role in developing Open Contracting portals - At the Federal and State level, which enhances transparency in government spending in Nigeria via [Budeshi, Budeshi Hub, and Nigerian State OCDS Portals](http://budeshi.ng/). I also develop and manage platforms that enhances Financial and Operational workflow within the PPDC</p>
 
-<p>Previosuly, my diverse experience includes roles had involved innovation in the Taxation area, Data momitoring and training, and mentoring.</p>
+<p>Previosuly, my diverse experience includes roles involved in software innovation in the Taxation area, Data momitoring and training, and mentoring.</p>
   
 <p>I am always excited about learning, I am currently expanding my skillset through courses in Cybersecurity, and dabbling into Infrastructure & AI Development with Python. In my free time, I enjoy playing Chess, Video Games, and watching documentaries about Astronomy and Marine life</p>
 
