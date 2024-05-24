@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abubakar Sadiq Sambo, but you can call me Sadiq.</h1>
-<h3 align="center">A passionate fullstack developer from Nigeria</h3>
+<h3 align="center">A passionate fullstack developer and entrepreneur from the "Pride of the Sahel" in Nigeria</h3>
+
+
+<p>A brief about Sadiq? - He is a passionate software engineer with a background in management science, leveraging his technical expertise and strategic thinking to develop impactful solutions across the government sector, e-commerce, real estate, and more. He excels in user-centric research, database design, and fostering collaboration through technical training workshops.</p>
+
+<p>Currently, at the Public and Private Development Center [PPDC](https://www.ppdc.org/), I play a pivotal role in developing Open Contracting portals - At the Federal and State level, which enhances transparency in government spending in Nigeria via [Budeshi, Budeshi Hub, and Nigerian State OCDS Portals](http://budeshi.ng/). I also develop and manage platforms that enhances Financial and Operational workflow within the PPDC</p>
+
+<p>Previosuly, my diverse experience includes roles had involved innovation in the Taxation area, Data momitoring and training, and mentoring.</p>
+  
+<p>I am always excited about learning, I am currently expanding my skillset through courses in Cybersecurity, and dabbling into Infrastructure & AI Development with Python. In my free time, I enjoy playing Chess, Video Games, and watching documentaries about Astronomy and Marine life</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqasg&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqasg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadiqasg" alt="sadiqasg" /></a> </p>
-
-- 🔭 I’m currently working, with [PPDC](https://www.ppdc.org/), to maintain and upgrade Open Contracting Portals that links procurement data to the services rendered by Federal Institutions in Nigeria via [Budeshi, Budeshi Hub, and Nigerian State OCDS Portals](http://budeshi.ng/)
 
 - 🌱 I’m currently learning **Python (Django) and Cyber Security**
 
