@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abubakar Sadiq Sambo, but you can call me Sadiq.</h1>
-<h3 align="center">A passionate fullstack developer and entrepreneur from the "Pride of the Sahel" in Nigeria</h3>
+<h1 align="center">Abubakar Sadiq Sambo (Call me Sadiq)</h1>
+<h3 align="center">Software Developer (Web and Mobile), and Tech Entrepenuer</h3>
 
 
-<p>A brief about Sadiq? - He is a passionate software engineer with a background in management science, leveraging his technical expertise and strategic thinking to develop impactful solutions across the government sector, e-commerce, real estate, and more. He excels in user-centric research, database design, and fostering collaboration through technical training workshops.</p>
-
-<p>Currently, at the Public and Private Development Center [PPDC](https://www.ppdc.org/), I play a pivotal role in developing Open Contracting portals - At the Federal and State level, which enhances transparency in government spending in Nigeria via [Budeshi, Budeshi Hub, and Nigerian State OCDS Portals](http://budeshi.ng/). I also develop and manage platforms that enhances Financial and Operational workflow within the PPDC</p>
-
-<p>Previosuly, my diverse experience includes roles involved in software innovation in the Taxation area, Data momitoring and training, and mentoring.</p>
+<p>
+  Hi, I'm Sadiq, a passionate full-stack developer with over 6 years of experience building scalable, user-centric web applications for NGOs, civic tech, startups, and commercial sectors. Skilled in JavaScript (React, Node.js, TypeScript), Python (Django), and databases (MongoDB, MySQL, PostgreSQL), I specialise in API design, CI/CD pipelines, and leading cross-functional teams to deliver impactful solutions. My work drives transparency (e.g., Budeshi Open Contracting Portal) and efficiency (e.g., WorkflowPadi ERP) while fostering collaboration through technical workshops.
+</p>
   
 <p>I am always excited about learning, I am currently expanding my skillset through courses in Cybersecurity, and dabbling into Infrastructure & AI Development with Python. In my free time, I enjoy playing Chess, Video Games, and watching documentaries about Astronomy and Marine life</p>
 
@@ -15,13 +13,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadiqasg" alt="sadiqasg" /></a> </p>
 
-- 🌱 I’m currently learning **Python (Django) and Cyber Security**
-
 - 👨‍💻 Some of my projects are available at [https://sadiqsambo.netlify.app](https://sadiqsambo.netlify.app)
 
-- 📫 How to reach me **sadiqasg@gmail.com**
+- 📄 See my resume [here](https://docs.google.com/document/d/1nLp-xXIxsNWbvIgjZNVmOeHnycYtagQLmyBtNx-bGzQ/edit?usp=sharing)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1-s6rc7rMpmDEL__jqaeA2qowV-7tSrNkFVEhgzRavSI/edit?usp=sharing](https://docs.google.com/document/d/1-s6rc7rMpmDEL__jqaeA2qowV-7tSrNkFVEhgzRavSI/edit?usp=sharing)
+- 📫 How to reach me **sadiqasg@gmail.com**
 
 - ⚡ Fun fact **Growing up, I wanted to be a Pilot**
 
