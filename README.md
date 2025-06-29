@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadiqasg" alt="sadiqasg" /></a> </p>
 
-- 👨‍💻 Some of my projects are available at [https://sadiqsambo.netlify.app](https://sadiqsambo.netlify.app)
+- 👨‍💻 Some of my projects are available at [https://sadiqasg.github.io](https://sadiqasg.github.io)
 
 - 📄 See my resume [here](https://docs.google.com/document/d/1nLp-xXIxsNWbvIgjZNVmOeHnycYtagQLmyBtNx-bGzQ/edit?usp=sharing)
 
