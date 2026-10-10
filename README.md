@@ -10,6 +10,9 @@
 </p>
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sadiqasg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 I design, build, and maintain software systems that solve real-world problems.
 
